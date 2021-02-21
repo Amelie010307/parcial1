@@ -1,0 +1,132 @@
+body{
+	background-image: url(fondo.jpeg);
+	background-size: cover;
+}
+.a{
+   position: absolute;
+   top: 10px;
+   left: 370px;
+   color: #FFFFFF;
+    animation-name: animacion;
+   animation-duration: 7s;
+   animation-delay: 5s;
+   animation-iteration-count: infinite;  font-family:  'Pacifico', cursive;
+   font-size: 75px;
+z-index: 3;
+}
+@keyframes animacion{
+  0%{color: #FFFFFF;}
+  50% {color:#818181;}
+  100% {color:#000000;}
+  
+}
+   .j{
+position: absolute;
+background: #F0D6E8; 
+border-left: 5px solid #01DF98;
+top:500px;
+height:200px;
+width:550px ;
+left: 390px;
+font-family: 'Courgette', cursive;
+font-size:29px;
+z-index: 3;
+   }
+.b{
+	 position: absolute;
+   top: 400px;
+   left: 500px;
+   color: #13E7A3;
+   animation-iteration-count: infinite;  font-family:  'Pacifico', cursive;
+   font-size: 75px;
+z-index: 3;
+}
+.comentario
+{
+position: absolute;
+background-image: url(boton.png);
+border:#E4F13B 10px double;
+top: 160px;
+left:150px;
+width:170px ;
+height:50px;
+font-family: 'Hachi Maru Pop', cursive;
+}
+.trabajo
+{
+ position: absolute;
+   top: 780px;
+   left: 510px;
+   color: #13E7A3;
+   animation-iteration-count: infinite;  font-family:  'Pacifico', cursive;
+   font-size: 75px;
+z-index: 3;
+}
+.fin
+{
+ position: absolute;
+   top: 1350px;
+   left: 500px;
+   color: #13E7A3;
+   animation-iteration-count: infinite;  font-family:  'Pacifico', cursive;
+   font-size: 75px;
+z-index: 3;
+}
+.trabajo1{
+position: absolute;
+background-image: url(boton.png);
+border:#E4F13B 10px double;
+top: 160px;
+left:560px;
+width:170px ;
+height:50px;
+font-family: 'Hachi Maru Pop', cursive;
+}
+.fin1{
+position: absolute;
+background-image: url(boton.png);
+border:#E4F13B 10px double;
+top: 160px;
+left:1060px;
+width:170px ;
+height:50px;
+font-family: 'Hachi Maru Pop', cursive;
+}
+.botonz{
+
+position: absolute;
+  top:1300px;
+  left:1px;
+}
+.flor{
+position: absolute;
+  top:20px;
+  left:100px;
+
+}
+.f{
+position: absolute;
+background: #F0D6E8; 
+border-left: 5px solid #01DF98;
+top:1800px;
+height:100px;
+width:400px ;
+left: 80px;
+font-family: 'Courgette', cursive;
+font-size:29px;
+z-index: 3;
+}
+.x{
+
+width: 800px;
+height: 600px;
+left: 100px;
+top:900px;
+}
+.y{
+
+width: 800px;
+height: 600px;
+left: 300px;
+top:900px;
+}
